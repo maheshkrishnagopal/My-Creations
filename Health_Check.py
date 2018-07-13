@@ -1,4 +1,3 @@
-#
 '''
 Name of the Program: YouTube Downloader
 Scope: This program has been created with best module available in Python. But, this can also be optimized and can get better structure.
