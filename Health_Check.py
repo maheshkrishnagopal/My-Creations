@@ -1,5 +1,14 @@
-#Automation for Health Check Query (Queryig Database and compare the result and sending the status as email).
-
+#
+'''
+Name of the Program: YouTube Downloader
+Scope: This program has been created with best module available in Python. But, this can also be optimized and can get better structure.
+Author: Maheshkrishna A G
+Module Used: Pafy
+Version: 0.1
+Description: Automation for Health Check Query (Querying Database and compare the result and sending the status as email).
+Input: NA.
+Date: 26-01-2017
+'''
 import os
 import cx_Oracle
 import csv
