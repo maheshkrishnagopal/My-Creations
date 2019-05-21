@@ -2,7 +2,10 @@
 Name of the Program: YouTube Downloader
 Scope: This program has been created with best module available in Python. But, this can also be optimized and can get better structure.
 Author: Maheshkrishna A G
-Module Used: Pafy
+Module Used: 	1. cx_oracle - Oracle DB connectivity.
+		2. csv - Microsoft Excel operations.
+		3. win32.com.client - Windows User operations.
+		4. email.mime.text - Processing Emails.
 Version: 0.1
 Description: Automation for Health Check Query (Querying Database and compare the result and sending the status as email).
 Input: NA.
